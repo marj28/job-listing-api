@@ -1,0 +1,74 @@
+{
+  "announcement": [
+    {
+      "id": 1,
+      "Title": "No Work",
+      "Date Posted": "02-24-2024",
+      "Desc": "Lorem chohohohsdksdfhdsfjkldsfkjlfds",
+      "Image": "https://cdn.quasar.dev/img/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "Title": "Office Closed",
+      "Date Posted": "03-01-2024",
+      "Desc": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "Image": "https://cdn.quasar.dev/img/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "Title": "Team Meeting",
+      "Date Posted": "03-15-2024",
+      "Desc": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "Image": "https://cdn.quasar.dev/img/avatar3.jpg"
+    },
+    {
+      "id": 4,
+      "Title": "Maintenance",
+      "Date Posted": "04-05-2024",
+      "Desc": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "Image": "https://cdn.quasar.dev/img/avatar4.jpg"
+    },
+    {
+      "id": 5,
+      "Title": "New Policy",
+      "Date Posted": "04-20-2024",
+      "Desc": "In voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "Image": "https://cdn.quasar.dev/img/avatar5.jpg"
+    },
+    {
+      "id": 6,
+      "Title": "Holiday",
+      "Date Posted": "05-01-2024",
+      "Desc": "Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "Image": "https://cdn.quasar.dev/img/avatar6.jpg"
+    },
+    {
+      "id": 7,
+      "Title": "Workshop",
+      "Date Posted": "05-15-2024",
+      "Desc": "Qui officia deserunt mollit anim id est laborum.",
+      "Image": "https://cdn.quasar.dev/img/avatar7.jpg"
+    },
+    {
+      "id": 8,
+      "Title": "System Update",
+      "Date Posted": "06-01-2024",
+      "Desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
+      "Image": "https://cdn.quasar.dev/img/avatar8.jpg"
+    },
+    {
+      "id": 9,
+      "Title": "Company Event",
+      "Date Posted": "06-20-2024",
+      "Desc": "Doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.",
+      "Image": "https://cdn.quasar.dev/img/avatar9.jpg"
+    },
+    {
+      "id": 10,
+      "Title": "New Hire",
+      "Date Posted": "07-10-2024",
+      "Desc": "Veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "Image": "https://cdn.quasar.dev/img/avatar10.jpg"
+    }
+  ]
+}
