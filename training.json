@@ -1,0 +1,84 @@
+{
+  "training": [
+    {
+      "id": 1,
+      "TrainingProvider": "DOST",
+      "TrainingTitle": "DOST Training",
+      "TrainingDesc": "Lorem ipsum sfhskdjf ashf asfh sdfhihjkfsdjhsdf jsdfhiiihfs sfdlkjh",
+      "DatePosted": "12-30-2023",
+      "avatar": "https://fundit.fr/sites/default/files/actors/3604-departement-science-et-technologie-philippines-dost.png"
+    },
+    {
+      "id": 2,
+      "TrainingProvider": "TESDA",
+      "TrainingTitle": "TESDA Training",
+      "TrainingDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "DatePosted": "01-15-2024",
+      "avatar": "https://tesda.gov.ph/uploads/images/2019/TESDA%20SEAL%20%28fb%20profile%29.png"
+    },
+    {
+      "id": 3,
+      "TrainingProvider": "Microsoft",
+      "TrainingTitle": "Microsoft Training",
+      "TrainingDesc": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Nulla quis lorem ut libero malesuada feugiat.",
+      "DatePosted": "02-01-2024",
+      "avatar": "https://cdn.cdnlogo.com/logos/m/82/microsoft.svg"
+    },
+    {
+      "id": 4,
+      "TrainingProvider": "Google",
+      "TrainingTitle": "Google Training",
+      "TrainingDesc": "Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat.",
+      "DatePosted": "02-20-2024",
+      "avatar": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 5,
+      "TrainingProvider": "IBM",
+      "TrainingTitle": "IBM Training",
+      "TrainingDesc": "Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Proin eget tortor risus.",
+      "DatePosted": "03-10-2024",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
+    },
+    {
+      "id": 6,
+      "TrainingProvider": "Cisco",
+      "TrainingTitle": "Cisco Training",
+      "TrainingDesc": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Quisque velit nisi, pretium ut lacinia in, elementum id enim.",
+      "DatePosted": "03-25-2024",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cisco_logo_blue_2016.svg"
+    },
+    {
+      "id": 7,
+      "TrainingProvider": "Oracle",
+      "TrainingTitle": "Oracle Training",
+      "TrainingDesc": "Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Curabitur aliquet quam id dui posuere blandit.",
+      "DatePosted": "04-05-2024",
+      "avatar": "https://www.oracle.com/a/ocom/img/cb71-logo-oracle.svg"
+    },
+    {
+      "id": 8,
+      "TrainingProvider": "Amazon Web Services",
+      "TrainingTitle": "AWS Training",
+      "TrainingDesc": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.",
+      "DatePosted": "04-20-2024",
+      "avatar": "https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/poweredbyaws-horizontallockup-color.27ad2c276ec97c8e3c369b91f41827f4a5f4fd02.png"
+    },
+    {
+      "id": 9,
+      "TrainingProvider": "Coursera",
+      "TrainingTitle": "Coursera Training",
+      "TrainingDesc": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.",
+      "DatePosted": "05-01-2024",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Coursera_Logo_2020.png"
+    },
+    {
+      "id": 10,
+      "TrainingProvider": "Udacity",
+      "TrainingTitle": "Udacity Training",
+      "TrainingDesc": "Sed porttitor lectus nibh. Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus.",
+      "DatePosted": "05-15-2024",
+      "avatar": "https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"
+    }
+  ]
+}
