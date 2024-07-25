@@ -1,0 +1,114 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "employerName": "AlfaLink",
+      "JobTitle": "Computer Programmer",
+      "JobDesc": "Lorem ipsum dhgsdfyrfbhrvfgerkgkjh",
+      "DatePosted": "07-22-2024",
+      "WorkHours": "8",
+      "WorkType": "Part Time",
+      "Salary": "10000",
+      "avatar": "https://cdn.quasar.dev/img/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "employerName": "BetaCorp",
+      "JobTitle": "Web Developer",
+      "JobDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "DatePosted": "07-23-2024",
+      "WorkHours": "8",
+      "WorkType": "Full Time",
+      "Salary": "12000",
+      "avatar": "https://cdn.quasar.dev/img/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "employerName": "GammaTech",
+      "JobTitle": "Data Analyst",
+      "JobDesc": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "DatePosted": "07-24-2024",
+      "WorkHours": "8",
+      "WorkType": "Contract",
+      "Salary": "9000",
+      "avatar": "https://cdn.quasar.dev/img/avatar3.jpg"
+    },
+    {
+      "id": 4,
+      "employerName": "DeltaSolutions",
+      "JobTitle": "Network Engineer",
+      "JobDesc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "DatePosted": "07-25-2024",
+      "WorkHours": "8",
+      "WorkType": "Full Time",
+      "Salary": "11000",
+      "avatar": "https://cdn.quasar.dev/img/avatar4.jpg"
+    },
+    {
+      "id": 5,
+      "employerName": "Epsilon Inc.",
+      "JobTitle": "Software Tester",
+      "JobDesc": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.",
+      "DatePosted": "07-26-2024",
+      "WorkHours": "8",
+      "WorkType": "Part Time",
+      "Salary": "9500",
+      "avatar": "https://cdn.quasar.dev/img/avatar5.jpg"
+    },
+    {
+      "id": 6,
+      "employerName": "ZetaTech",
+      "JobTitle": "UX Designer",
+      "JobDesc": "Et harum quidem rerum facilis est et expedita distinctio.",
+      "DatePosted": "07-27-2024",
+      "WorkHours": "8",
+      "WorkType": "Full Time",
+      "Salary": "11500",
+      "avatar": "https://cdn.quasar.dev/img/avatar6.jpg"
+    },
+    {
+      "id": 7,
+      "employerName": "ThetaSystems",
+      "JobTitle": "System Administrator",
+      "JobDesc": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
+      "DatePosted": "07-28-2024",
+      "WorkHours": "8",
+      "WorkType": "Contract",
+      "Salary": "10500",
+      "avatar": "https://cdn.quasar.dev/img/avatar7.jpg"
+    },
+    {
+      "id": 8,
+      "employerName": "IotaNetworks",
+      "JobTitle": "Database Administrator",
+      "JobDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "DatePosted": "07-29-2024",
+      "WorkHours": "8",
+      "WorkType": "Full Time",
+      "Salary": "13000",
+      "avatar": "https://cdn.quasar.dev/img/avatar8.jpg"
+    },
+    {
+      "id": 9,
+      "employerName": "KappaWorks",
+      "JobTitle": "IT Support Specialist",
+      "JobDesc": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "DatePosted": "07-30-2024",
+      "WorkHours": "8",
+      "WorkType": "Part Time",
+      "Salary": "8500",
+      "avatar": "https://cdn.quasar.dev/img/avatar9.jpg"
+    },
+    {
+      "id": 10,
+      "employerName": "LambdaSoft",
+      "JobTitle": "DevOps Engineer",
+      "JobDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "DatePosted": "07-31-2024",
+      "WorkHours": "8",
+      "WorkType": "Full Time",
+      "Salary": "12500",
+      "avatar": "https://cdn.quasar.dev/img/avatar10.jpg"
+    }
+  ]
+}
